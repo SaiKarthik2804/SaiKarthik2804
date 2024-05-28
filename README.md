@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Karthik Alluri</h1>
-<h3 align="center">A passionate Mechatronics Student</h3>
+<h3 align="center">A passionate Mechatronics Graduate</h3>
 
-- 🌱 I’m currently learning **Altium**
+- 🌱 I’m currently learning **ROS**
 
 - 💬 Ask me about **Embedded C, Electronics, Drones, PLC,**
 
